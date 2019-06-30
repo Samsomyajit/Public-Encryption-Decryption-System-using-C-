@@ -1,0 +1,11 @@
+@hello this is Sam
+full name: Somyajit Chakraborty
+
+This is a detailed 128bits Encryption/Decryption-AES system can with the given run:
+
+*****Steps******
+
+1.Click on the Encrypt_Sam APP : input msg
+2.Click on the Decrypt_Sam.Cpp compile and run to decrypt the \msg
+
+$root : ENjoy!!
